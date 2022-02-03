@@ -51,6 +51,7 @@
 		background-color: black;
 	  height: 0.1vh;
 	  width: 111%;
+	  
 	  }
 
 	  .box2{
@@ -76,10 +77,10 @@
 	  .box4{
 		background-color: black;
 	  height: 0.1vh;
-	  width: 98.7%;
-	  margin-top: 78vh;
-	  margin-left:10px;
-	  margin-right:10px;
+	  width: 111%;
+	  margin-top: 40vh;
+	  margin-left:3px;
+	  margin-right:3px;
 	  background-attachment: fixed;
 	  }
 
